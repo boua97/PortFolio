@@ -133,16 +133,16 @@ nav ul li{
 }
 .Home .container-images{
     width:45%;
-    height: 90%;
+    height: 100%;
     position: relative;
     align-self: flex-end;
  
     
 }
 .Home .container-images img{
-    position: absolute ;
-    width:65%;
-    height: 90%;
+    position: absolute;
+    width:100%;
+    height: 100%;
 
     /* width:85%;
     height: 96%; */
@@ -962,7 +962,7 @@ footer .content-footer p{
     }
     .Home .container-images img{
       height: auto;
-      width: 100%;  
+      width:100%;  
     }
     nav {
         position: fixed;
